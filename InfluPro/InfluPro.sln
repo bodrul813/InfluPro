@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36203.30 d17.14
+VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluPro.UI", "InfluPro.UI\InfluPro.UI.csproj", "{C64C5E40-7599-4330-94ED-05C5DF4E909E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluPro.BLL", "InfluPro.BLL\InfluPro.BLL.csproj", "{AE41CB81-CD49-4094-ABA5-6283A75191B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluPro.DAL", "InfluPro.DAL\InfluPro.DAL.csproj", "{519B427F-4E21-4054-B7A5-D97D0BCCBC95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfluPro.API", "InfluPro.API\InfluPro.API.csproj", "{B992583E-C18D-4D1E-AF5A-7FD5EA79CF68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{519B427F-4E21-4054-B7A5-D97D0BCCBC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519B427F-4E21-4054-B7A5-D97D0BCCBC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519B427F-4E21-4054-B7A5-D97D0BCCBC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B992583E-C18D-4D1E-AF5A-7FD5EA79CF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B992583E-C18D-4D1E-AF5A-7FD5EA79CF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B992583E-C18D-4D1E-AF5A-7FD5EA79CF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B992583E-C18D-4D1E-AF5A-7FD5EA79CF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
